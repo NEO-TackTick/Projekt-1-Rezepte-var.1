@@ -14,3 +14,5 @@ Die Ausführung dieses Projekts soll folgende Fähigkeiten Vermitteln:
 4. Einfügen von Sortierten und Unsortiereten Listen.
 
 5. Einfügen von Bildern mit Variablen Abmassen.
+
+Arbeit wurde im Verlauf 1 Woche in Aufgeteilten Schritten Durchgeführt.
